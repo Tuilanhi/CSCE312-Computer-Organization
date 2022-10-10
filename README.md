@@ -1,4 +1,4 @@
-# CSCE312-Computer-Organization
+# Computer-Organization
 
 ## About
 
